@@ -36,7 +36,7 @@ export default function AdminDashboard() {
         {/* Header */}
         <div className="flex justify-between items-center mb-8">
           <div>
-            <h1 className="text-3xl font-poppins font-bold text-punjabi-dark">Firebase Admin Dashboard</h1>
+            <h1 className="text-3xl font-poppins font-bold text-punjabi-dark">Admin Dashboard</h1>
             <p className="text-gray-600">Welcome back, {user?.displayName || user?.email}!</p>
           </div>
           <Button 
