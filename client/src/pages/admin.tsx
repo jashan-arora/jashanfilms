@@ -54,7 +54,7 @@ export default function Admin() {
         <div className="max-w-4xl mx-auto">
           <Card className="bg-white shadow-2xl overflow-hidden">
             <div className="bg-gradient-to-r from-punjabi-orange to-punjabi-red p-6">
-              <h3 className="text-2xl font-poppins font-bold text-white">Firebase Admin Dashboard</h3>
+              <h3 className="text-2xl font-poppins font-bold text-white">Admin Dashboard</h3>
               <p className="text-white/90">Secure Google OAuth authentication</p>
             </div>
             
