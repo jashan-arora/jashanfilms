@@ -187,9 +187,9 @@ export const initializeDefaultData = async (): Promise<void> => {
       await addDoc(companyCollection, {
         description: "Jashan Films stands as a premier Punjabi music production house, dedicated to showcasing the rich cultural heritage of Punjab through television programming. We broadcast authentic Punjabi music shows on Doordarshan three times a week, reaching millions of viewers across India.",
         mission: "As a licensed advertisement agency with Doordarshan, we bridge the gap between talented artists and national television, providing comprehensive production services that honor traditional Punjabi music while embracing modern broadcasting standards.",
-        showsProduced: "150+",
-        artistsFeatured: "300+",
-        yearsExperience: "10+",
+        showsProduced: "500+",
+        artistsFeatured: "1000+",
+        yearsExperience: "25+",
         phone: "+91 98151 05700",
         email: "official@jashanfilms.com",
         address: "Jalandhar, Punjab, India"
