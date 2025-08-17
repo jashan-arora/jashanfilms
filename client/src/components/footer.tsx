@@ -54,15 +54,15 @@ export default function Footer() {
             <ul className="space-y-3 text-gray-300 text-sm">
               <li className="flex items-center">
                 <Phone className="h-4 w-4 text-punjabi-orange mr-2 flex-shrink-0" />
-                +91 98765 43210
+                +91 98151 05700
               </li>
               <li className="flex items-center">
                 <Mail className="h-4 w-4 text-punjabi-orange mr-2 flex-shrink-0" />
-                info@jashanfilms.com
+                official@jashanfilms.com
               </li>
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 text-punjabi-orange mr-2 flex-shrink-0" />
-                Punjab, India
+                Jalandhar, Punjab, India
               </li>
             </ul>
           </div>
