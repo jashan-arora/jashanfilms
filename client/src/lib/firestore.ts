@@ -190,9 +190,9 @@ export const initializeDefaultData = async (): Promise<void> => {
         showsProduced: "150+",
         artistsFeatured: "300+",
         yearsExperience: "10+",
-        phone: "+91 98765 43210",
-        email: "info@jashanfilms.com",
-        address: "Punjab, India"
+        phone: "+91 98151 05700",
+        email: "official@jashanfilms.com",
+        address: "Jalandhar, Punjab, India"
       });
     }
 
